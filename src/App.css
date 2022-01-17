@@ -1,0 +1,37 @@
+h1{
+  color:cornsilk;
+  font-family: "Ubuntu";
+}
+
+.Heading{
+  text-align: center;
+  font-size: 1.5rem;
+}
+
+.box{
+  width: 500px;
+  height: 200px;
+  border:2px solid rgb(204, 199, 183);
+font-size: 2rem;
+border-radius: 0.8rem;
+box-shadow: 0 0 0.5rem gainsboro;
+padding: 10px 10px 10px 10px;
+color: ghostwhite;
+}
+
+button{
+  margin: 20px ;
+  height: 50px;
+  width: 100px;
+  border-radius: 0.5rem;
+box-shadow: 0 0 1rem gainsboro;
+font-size: 1.1rem;
+font-family: "Ubuntu";
+cursor: pointer;
+
+}
+
+.align{
+  display: flex;
+  justify-content: space-around;
+}
