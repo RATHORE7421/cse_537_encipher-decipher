@@ -14,7 +14,7 @@ h1{
   border:2px solid rgb(204, 199, 183);
 font-size: 2rem;
 border-radius: 0.8rem;
-box-shadow: 0 0 0.5rem gainsboro;
+box-shadow: 0 0 0.5rem rgb(220, 220, 220 );
 padding: 10px 10px 10px 10px;
 color: ghostwhite;
 }
@@ -30,7 +30,6 @@ font-family: "Ubuntu";
 cursor: pointer;
 
 }
-
 .align{
   display: flex;
   justify-content: space-around;

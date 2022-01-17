@@ -5,6 +5,7 @@ import App from './App';
 
 ReactDOM.render(
   <>
+  {/* React component that consist of all the functionality */}
   <App/>
   </>,
   document.getElementById('root')
